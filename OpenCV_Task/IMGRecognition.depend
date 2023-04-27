@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682188967 source:c:\users\danjs\onedrive - the university of nottingham\project work\week 6\symbol recognition step 1\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	"opencv_aee.hpp"
+	"opencv_aee.cpp"
+	<stdlib.h>
+	<stdio.h>
+	<imgproc.hpp>
+
